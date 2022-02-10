@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "570880710380",
+    "firebase_url": "https://quietly-260ce.firebaseio.com",
+    "project_id": "quietly-260ce",
+    "storage_bucket": "quietly-260ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570880710380:android:9955d6542693c025fc77c9",
+        "android_client_info": {
+          "package_name": "com.example.quietly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570880710380-rtol2ug79fk1rckohco461cnl98lsu9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByxuU1LIj3sbuaQ4QQPij_Er_s621_Hio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570880710380-rtol2ug79fk1rckohco461cnl98lsu9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
